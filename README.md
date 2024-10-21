@@ -96,4 +96,4 @@ Deploy your project easily to Vercel:
 
 ---
 
-❤️🔥
+@ri.teshhh ❤️🔥
