@@ -42,12 +42,7 @@ An advanced AI-powered email client built using **Next.js 14**, designed to stre
 3. Create a `.env.local` file in the root directory and add the following environment variables:
 
    ```bash
-   NEXT_PUBLIC_CLERK_FRONTEND_API=<Your Clerk Frontend API>
-   CLERK_API_KEY=<Your Clerk API Key>
-   DATABASE_URL=<Your PostgreSQL Database URL>
-   STRIPE_SECRET_KEY=<Your Stripe Secret Key>
-   OPENAI_API_KEY=<Your OpenAI API Key>
-   PINECONE_API_KEY=<Your Pinecone API Key>
+    add required api keys
    ```
 
 4. Set up the Prisma database:
@@ -64,49 +59,6 @@ An advanced AI-powered email client built using **Next.js 14**, designed to stre
 
    The app should now be running on [http://localhost:3000](http://localhost:3000).
 
-## 🧪 Testing
-
-Run the following command to execute tests:
-
-```bash
-npm run test
-```
-
-## 📦 Deployment
-
-Deploy your project easily to Vercel:
-
-1. Install the Vercel CLI:
-
-   ```bash
-   npm i -g vercel
-   ```
-
-2. Link your project:
-
-   ```bash
-   vercel link
-   ```
-
-3. Deploy your app:
-
-   ```bash
-   vercel --prod
-   ```
-
-## ⚙️ Environment Variables
-
-- `NEXT_PUBLIC_CLERK_FRONTEND_API`: Your Clerk API endpoint for authentication.
-- `CLERK_API_KEY`: Your Clerk secret API key.
-- `DATABASE_URL`: Connection URL for your PostgreSQL database.
-- `STRIPE_SECRET_KEY`: Secret key for Stripe to handle payments.
-- `OPENAI_API_KEY`: API key to access OpenAI for AI-powered features.
-- `PINECONE_API_KEY`: API key for Pinecone vector search.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to modify and add any additional sections or details relevant to your project!
+THANK YOU
