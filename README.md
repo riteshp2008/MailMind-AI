@@ -1,6 +1,3 @@
-Here's a sample **GitHub README** file for your AI-powered email client project:
-
----
 
 # 📧 AI-Powered Email Client
 
