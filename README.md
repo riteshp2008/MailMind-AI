@@ -42,7 +42,13 @@ An advanced AI-powered email client built using **Next.js 14**, designed to stre
 3. Create a `.env.local` file in the root directory and add the following environment variables:
 
    ```bash
-    add required api keys
+    NEXT_PUBLIC_CLERK_FRONTEND_API=<Your Clerk Frontend API>
+   CLERK_API_KEY=<Your Clerk API Key>
+   DATABASE_URL=<Your PostgreSQL Database URL>
+   STRIPE_SECRET_KEY=<Your Stripe Secret Key>
+   OPENAI_API_KEY=<Your OpenAI API Key>
+   PINECONE_API_KEY=<Your Pinecone API Key>
+
    ```
 
 4. Set up the Prisma database:
@@ -61,4 +67,4 @@ An advanced AI-powered email client built using **Next.js 14**, designed to stre
 
 
 ---
-THANK YOU
+THANK YOU ❤️🔥
