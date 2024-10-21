@@ -1,6 +1,3 @@
-Here's an updated **GitHub README** file with the new name **MailMind-AI**:
-
----
 
 # 📧 MailMind-AI
 
